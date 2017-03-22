@@ -15,3 +15,7 @@ Check Add the following commands
 ```
 -O2 -lgdi32 
 ```
+
+## Screencapture:
+
+![](https://github.com/melvincabatuan/SimplifiedMenuGUI/blob/master/Capture.JPG)
